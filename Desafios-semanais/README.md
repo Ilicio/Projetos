@@ -1,6 +1,11 @@
 ## :pushpin: Resumo:  
 > Projeto interno para incentivar uso prático das ferramentas e tecnologias existentes.
 
+## Dificuldade dos desafios:
+![](https://img.shields.io/static/v1?label=Nível&message=Básico&color=?style=plastic)  
+![](https://img.shields.io/static/v1?label=Nível&message=Intermediário&color=yellow)  
+![](https://img.shields.io/static/v1?label=Nível&message=Avançado&color=critical) 
+
 ## :bookmark_tabs: Regras e observações:  
 > - Os desafios ocorrerão **toda semana sem data de término.**  
 > - Cada colaborador apresentará seu projeto e seus resultados.  
