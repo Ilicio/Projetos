@@ -7,7 +7,7 @@
 
 
 
-## :cloud: Tarefa: Google Cloud Storage
+## :cloud: Desafio: Google Cloud Storage
 Executar passos abaixo no ambiente gráfico do Google Cloud Storage e em linhas de comando.  <p>
 ![nivel](https://img.shields.io/static/v1?label=Nível&message=Básico&color=?style=plastic)  
 
