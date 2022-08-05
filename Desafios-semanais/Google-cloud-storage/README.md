@@ -51,7 +51,7 @@ gcloud auth login
 Opção 2: Com uma conta de serviço  
 https://cloud.google.com/docs/authentication/production?hl=pt-br#create-service-account-gcloud
 
-## :herb: Documentação
+## :memo: Documentação
 Criar conta de serviço *(vá direto ao passo 4)*:  
 https://support.google.com/a/answer/7378726?hl=pt-BR
 
