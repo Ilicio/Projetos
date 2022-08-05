@@ -9,5 +9,5 @@
 > - Se o colaborador estiver de férias, não participará dos desafios até a semana seguinte do seu retorno.  
 > - As regras e informações do desafio serão sempre atualizadas no chat do Google Workspace como tarefas.  
 > - Todo projeto realizado deverá ser documentado em PDF.  
-> - Quando houver codificação, disponibilizado o código fonte comentado linha a linha no Github.  
+> - Quando houver codificação, disponibilizado o código fonte comentado linha a linha no [Github](https://github.com/).  
 > - As dúvidas serão debatidas no período entre a semana do lançamento do desafio e da apresentação.  
