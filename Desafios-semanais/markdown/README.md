@@ -11,6 +11,6 @@ Para criar um título, adicione sinais numéricos ( #) na frente de uma palavra 
 Os aplicativos de remarcação não concordam em como lidar com um espaço ausente entre os sinais numéricos ( #) e o nome do título. Para compatibilidade, sempre coloque um espaço entre os sinais numéricos e o nome do título.
 
 | :heavy_check_mark: variavel 1    | :x: Variável 2    |
-| ------------- | ------------- |
+| :-----------: | :-----------: |
 | mensagem      | mensagem      |
 | mensagem      | mensagem      |
