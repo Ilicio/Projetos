@@ -18,3 +18,12 @@ Os aplicativos de remarcação não concordam em como lidar com um espaço ausen
 | :-----------: | :-----------: |
 | # Meu Título      | #Meu Título      |
 
+
+
+Fonte:  
+https://www.markdownguide.org/getting-started/  
+https://www.markdownguide.org/basic-syntax/  
+https://www.markdownguide.org/extended-syntax/  
+https://gist.github.com/rxaviers/7360908  
+
+
