@@ -3,21 +3,22 @@
 ![linux](https://img.shields.io/static/v1?label=&message=Linux&color=lightgrey&logo=linux)
 ![Github](https://img.shields.io/static/v1?label=&message=Github&color=lightgrey&logo=github)
 
-## :cloud: Desafio: Google Cloud Storage
-Executar passos abaixo no ambiente gráfico do Google Cloud Storage e em linhas de comando.  <p>
+### :memo: Para aprender os primeiros passos em markdown, siga o guia abaixo:  
+
+[Guia de markdown para iniciantes](https://github.com/Ilicio/Projetos/tree/main/Desafios-semanais/markdown)
+
+## :cloud: Desafio: Markdown Básico
+Aprender e colocar em prática o conhecimento de markdown para documentar processos, tarefas e uso de ferramentas.  
+
 ![nivel](https://img.shields.io/static/v1?label=Nível&message=Básico&color=?style=plastic)  
 
-:one: Criar 2 buckets com o nome `{seu_nome}_bucket1` e `{seu_nome}_bucket2` sendo:
-> - **Classe:** STANDARD
-> - **Localização:** us-central1
+:one: Criar um repositório em seu Github chamado `projetos`.  
 
-:two: Listar os buckets para conferir se foram criados
+:two: Criar uma pasta dentro do repositório, chamada `desafios-semanais`.  
 
-:three: Copiar 1 arquivo local para cada bucket criado, sendo: 
- > - bucket1: um arquivo .jpg
- > - bucket2: um arquivo .txt
+:three: Criar uma nova pasta dentro da pasta "desafio-semanais" com o nome `markdown`.  
 
-:four: Listar os objetos de cada bucket e conferir se os arquivos estão presentes
+:four: Criar um arquivo markdown dentro da pasta "markdown" com o nome `markdown-tarefa1`.  
 
 :five: Criar 1 bucket com o nome `{seu_nome}_bucket3`
 
@@ -60,3 +61,7 @@ https://cloud.google.com/sdk/docs/interactive-gcloud
 
 Gerenciando componentes no Google Cloud:  
 https://cloud.google.com/sdk/docs/components
+
+Boa sorte e bom trabalho! :)
+
+![](https://c.tenor.com/ez_seINE7FgAAAAj/lucks-fortunate.gif)
