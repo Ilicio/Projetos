@@ -18,13 +18,22 @@ Aprender e colocar em prática o conhecimento de markdown para documentar proces
 
 :three: Criar uma nova pasta dentro da pasta "desafio-semanais" com o nome `markdown`.  
 
-:four: Criar um arquivo markdown dentro da pasta "markdown" com o nome `markdown-tarefa1`.  
+:four: Criar um arquivo markdown dentro da pasta "markdown" com o nome `markdown-tarefa1.md`.  
 
-:five: Criar 1 bucket com o nome `{seu_nome}_bucket3`
+:five: No arquivo .md, devereá constar os seguintes elementos:
+> - Pelo menos dois tamanhos de títulos
+> - Parágrafos separados por quebra de linhas
+> - Ênfase com trechos em negrito
+> - Ênfase com trechos em itálico
+> - Pelo menos uma citação em bloco
+> - Pelo menos um tipo de lista (ordenada ou não ordenada)
+> - Todos os códigos devem estar indicados de forma clara (entre acentos graves)
+> - Pelo menos um link
+> - Pelo menos uma imagem
 
-:six: Copiar os arquivos .jpg e .txt dos buckets 1 e 2, para o bucket3
+:six: Commitar e salvar o arquivo .md
 
-:seven: Listar objetos do bucket3 e conferir
+:seven: Compartilhar link do arquivo .md no espaço do Google Chat do time de dados.
 
 :eight: Fazer download dos objetos do bucket3 para uma pasta local
 
