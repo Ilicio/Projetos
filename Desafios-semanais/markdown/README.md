@@ -27,11 +27,76 @@ Para criar parágrafos, use uma linha em branco para separar uma ou mais linhas 
 
 ## Quebras de linha  
 
-### Práticas recomendadas de quebra de linha  
+Para criar uma quebra de linha ou uma nova linha ( <br>), termine uma linha com dois ou mais espaços e digite return.  
 
 ## Ênfase  
 
+Você pode adicionar ênfase colocando o texto em negrito ou itálico.  
 
+| Markdown - negrito                  | Saída renderizada                  |
+| ----------------------------------- | ---------------------------------- |
+| `Exemplo de texto em **negrito**.`  | Exemplo de texto em **negrito**.   |
+| `Exemplo **de** texto em negrito.`  | Exemplo **de** texto em negrito.   |
+
+| Markdown - itálico                   | Saída renderizada                   |
+| ------------------------------------ | ----------------------------------- |
+| `Exemplo de texto em *negrito*.`     | Exemplo de texto em *itálico*.      |
+| `Exemplo *de* texto em negrito.`     | Exemplo *de* texto em itálico.      |
+
+| Markdown - negrito + itálico        | Saída renderizada                  |
+| ----------------------------------- | ---------------------------------- |
+| `Exemplo de texto em ***negrito***.`| Exemplo de texto em ***itálico***. |
+| `Exemplo ***de*** texto em negrito.`| Exemplo ***de*** texto em itálico. |
+
+### Citações em bloco  
+
+Para criar uma citação em bloco, adicione um `>` na frente de um parágrafo.
+
+```
+> Exemplo de texto com citação em bloco
+```
+
+A saída renderizada fica assim:  
+
+> Exemplo de texto com citação em bloco
+
+### Citações de bloco aninhadas  
+
+Blocos podem ser aninhados. Adicione um `>>` na frente do parágrafo que você deseja aninhar.  
+
+```
+> Exemplo de texto com citação em bloco
+>
+>> Exemplo de texto com citação de bloco aninhada
+```
+
+A saída renderizada fica assim:  
+
+> Exemplo de texto com citação em bloco
+>
+>> Exemplo de texto com citação de bloco aninhada
+
+### Citações em bloco com outros elementos  
+
+Blocos podem conter outros elementos formatados de Markdown. Nem todos os elementos podem ser usados, você precisará experimentar para ver quais funcionam.  
+
+```
+> ### Exemplo de título em bloco
+>
+> - Exemplo de texto com citação em lista não ordenada.
+> - Exemplo de texto com citação em lista não ordenada.
+> 
+> Exemplo de texto em **negrito** e *itálico* em citação de bloco.
+```
+
+A saída renderizada fica assim:  
+
+> ### Exemplo de título em bloco
+>
+> - Exemplo de texto com citação em lista não ordenada.
+> - Exemplo de texto com citação em lista não ordenada.
+> 
+> Exemplo de texto em **negrito** e *itálico* em citação de bloco.
 
 
 Fonte:  
