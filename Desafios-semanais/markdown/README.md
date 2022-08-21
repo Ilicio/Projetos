@@ -19,13 +19,18 @@ Para criar um título, adicione sinais numéricos ( #) na frente de uma palavra 
 
 Os aplicativos de remarcação não concordam em como lidar com um espaço ausente entre os sinais numéricos ( #) e o nome do título. Para compatibilidade, sempre coloque um espaço entre os sinais numéricos e o nome do título.
 
-### Práticas recomendadas de título
+## Parágrafos
 
-Os aplicativos de remarcação não concordam em como lidar com um espaço ausente entre os sinais numéricos ( #) e o nome do título. Para compatibilidade, sempre coloque um espaço entre os sinais numéricos e o nome do título.
+Para criar parágrafos, use uma linha em branco para separar uma ou mais linhas de texto.  
 
-| :heavy_check_mark: Faça isso    | :x: Não faça isso    |
-| :-----------: | :-----------: |
-| # Meu Título      | #Meu Título      |
+### Práticas recomendadas do parágrafo  
+
+## Quebras de linha  
+
+### Práticas recomendadas de quebra de linha  
+
+## Ênfase  
+
 
 
 
