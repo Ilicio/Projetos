@@ -16,6 +16,8 @@ Aprender e colocar em prática o conhecimento de markdown para documentar proces
 
 :one: Criar um repositório em seu Github chamado `projetos`.  
 
+![](https://github.com/Ilicio/Projetos/blob/main/Desafios-semanais/markdown/repo.png)
+
 :two: Criar uma pasta dentro do repositório, chamada `desafios-semanais`.  
 
 :three: Criar uma nova pasta dentro da pasta "desafio-semanais" com o nome `markdown`.  
@@ -33,7 +35,9 @@ Aprender e colocar em prática o conhecimento de markdown para documentar proces
 > - Pelo menos um link
 > - Pelo menos uma imagem
 
-:six: Commitar e salvar o arquivo .md
+:six: Commitar e salvar o arquivo .md  
+
+![](https://github.com/Ilicio/Projetos/blob/main/Desafios-semanais/markdown/commit.png)
 
 :seven: Compartilhar link do arquivo .md no espaço do Google Chat do time de dados.
 
