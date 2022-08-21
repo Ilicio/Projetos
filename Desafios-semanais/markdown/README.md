@@ -1,3 +1,7 @@
+# Markdown Básico  
+
+Instruções básicas para implementação de markdown.  
+
 ## Visão geral
 
 Quase todos os aplicativos Markdown suportam a sintaxe básica descrita no documento original de design do Markdown. Existem pequenas variações e discrepâncias entre os processadores Markdown - essas são anotadas em linha sempre que possível.
@@ -97,6 +101,150 @@ A saída renderizada fica assim:
 > - Exemplo de texto com citação em lista não ordenada.
 > 
 > Exemplo de texto em **negrito** e *itálico* em citação de bloco.
+
+## Listas  
+
+Você pode organizar itens em listas ordenadas e não ordenadas.  
+
+### Listas ordenadas  
+
+Para criar uma lista ordenada, adicione itens de linha com números seguidos por pontos. Os números não precisam estar em ordem numérica, mas a lista deve começar com o número um.  
+
+```
+1. Item 1 
+2. Item 2
+3. Item 3
+```
+
+A saída renderizada fica assim: 
+
+1. Item 1 
+2. Item 2
+3. Item 3
+
+
+### Listas não ordenadas  
+
+Para criar uma lista não ordenada, adicione traços `( -)`, asteriscos `( *)` ou sinais de adição `( +)` na frente dos itens de linha. Recue um ou mais itens para criar uma lista aninhada.  
+
+```
+- Item 1 
+- Item 2
+- Item 3
++ Item 4
++ Item 5
++ Item 6
+* Item 7
+* Item 8
+* Item 9
+```
+
+A saída renderizada fica assim: 
+
+- Item 1 
+- Item 2
+- Item 3
++ Item 4
++ Item 5
++ Item 6
+* Item 7
+* Item 8
+* Item 9
+
+## Código
+
+Para denotar uma palavra ou frase como código, coloque-a entre acentos graves ``( `)``.  
+```
+`Exemplo de linha com código.`
+```
+
+A saída renderizada fica assim: 
+
+`Exemplo de linha com código.`
+
+## Escapando das crase em frases  
+
+Se a palavra ou frase que você deseja denotar como código inclui um ou mais acentos graves, você pode escapar colocando a palavra ou frase entre acentos graves.
+
+## Réguas horizontais  
+
+```
+*****
+-----
+_____
+```
+
+A saída renderizada de todos os três é idêntica:  
+
+-------
+
+## Links  
+
+Para criar um link, coloque o texto do link entre colchetes (por exemplo, [Duck Duck Go]) e siga-o imediatamente com o URL entre parênteses (por exemplo, (https://duckduckgo.com)).
+
+```
+Meu navegador favorito é o [Google](https://google.com)  
+```
+
+A saída renderizada fica assim:  
+
+Meu navegador favorito é o [Google](https://google.com)  
+
+## Imagens  
+
+Para adicionar uma imagem, adicione um ponto de exclamação `( !)`, seguido de texto alternativo entre colchetes e o caminho ou URL para o recurso de imagem entre parênteses. Opcionalmente, você pode adicionar um título entre aspas após o caminho ou URL.  
+
+```
+![The San Juan Mountains are beaultiful!](https://mdg.imgix.net/assets/images/san-juan-mountains.jpg?auto=format&fit=clip&q=40&w=1080 "San Juan Mountains")
+```
+
+A saída renderizada fica assim:  
+
+![The San Juan Mountains are beaultiful!](https://mdg.imgix.net/assets/images/san-juan-mountains.jpg?auto=format&fit=clip&q=40&w=1080 "San Juan Mountains")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Fonte:  
