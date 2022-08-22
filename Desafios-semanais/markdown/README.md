@@ -10,7 +10,7 @@ Quase todos os aplicativos Markdown suportam a sintaxe básica descrita no docum
 
 ## Títulos
 
-Para criar um título, adicione sinais numéricos ( #) na frente de uma palavra ou frase. O número de sinais numéricos que você usa deve corresponder ao nível do título. Por exemplo, para criar um nível de título três, use três sinais numéricos (por exemplo, ### Meu título).  
+Para criar um título, adicione sinais numéricos `#` na frente de uma palavra ou frase. O número de sinais numéricos que você usa deve corresponder ao nível do título. Por exemplo, para criar um nível de título três, use três sinais numéricos (por exemplo, `### Meu título`).  
 
 | Markdown            |Saída renderizada          |
 | ------------------- | ------------------------- |
@@ -23,7 +23,7 @@ Para criar um título, adicione sinais numéricos ( #) na frente de uma palavra 
 
 ### Práticas recomendadas de título
 
-Os aplicativos de remarcação não concordam em como lidar com um espaço ausente entre os sinais numéricos ( #) e o nome do título. Para compatibilidade, sempre coloque um espaço entre os sinais numéricos e o nome do título.
+Os aplicativos de remarcação não concordam em como lidar com um espaço ausente entre os sinais numéricos `#` e o nome do título. Para compatibilidade, sempre coloque um espaço entre os sinais numéricos e o nome do título.
 
 ## Parágrafos
 
@@ -33,7 +33,7 @@ Para criar parágrafos, use uma linha em branco para separar uma ou mais linhas 
 
 ## Quebras de linha  
 
-Para criar uma quebra de linha ou uma nova linha ( <br>), termine uma linha com dois ou mais espaços e digite return.  
+Para criar uma quebra de linha ou uma nova linha `<br>`, termine uma linha com dois ou mais espaços e digite return.  
 
 ## Ênfase  
 
@@ -185,7 +185,7 @@ Meu navegador favorito é o [Google](https://google.com)
 
 ## Imagens  
 
-Para adicionar uma imagem, adicione um ponto de exclamação `( !)`, seguido de texto alternativo entre colchetes e o caminho ou URL para o recurso de imagem entre parênteses. Opcionalmente, você pode adicionar um título entre aspas após o caminho ou URL.  
+Para adicionar uma imagem, adicione um ponto de exclamação `!`, seguido de texto alternativo entre colchetes e o caminho ou URL para o recurso de imagem entre parênteses. Opcionalmente, você pode adicionar um título entre aspas após o caminho ou URL.  
 
 ```
 ![The San Juan Mountains are beaultiful!](https://mdg.imgix.net/assets/images/san-juan-mountains.jpg?auto=format&fit=clip&q=40&w=1080 "San Juan Mountains")
